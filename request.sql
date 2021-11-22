@@ -47,7 +47,7 @@ BEGIN
 END;
 GO
 
-SELECT TestDB.dbo.getFullOrgName(9)
+SELECT TestDB.dbo.getFullOrgName(9) -- TestDB - название БД 
 GO
 
 -- #5 
